@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a software engineer
-- 👀 I’m interested in web-development and ERP systems
+- 👀 I’m interested in Web apps and ERP systems development
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on all my new ideas
 - 📫 heshamoov90@gmail.com
