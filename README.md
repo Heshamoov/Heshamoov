@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a software engineer
-- 👀 I develop using PHP, Ruby on Rails, React JS, and React Native
+- 👀 I develop using PHP, Ruby on Rails, and React JS
 - 💞️ I’m looking to collaborate on all my new ideas
 - 📫 heshamoov90@gmail.com
 
